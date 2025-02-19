@@ -55,17 +55,19 @@ To ensure a seamless user experience, various UI/UX testing methods were conduct
 
 - Micro-interaction and workflow evaluations
 
-### 📂 Project Assets
+### 📂 Project Access
 
-- 🔗 Figma Prototype Link: https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=tuxG2oGG3MnsQwAl-1 
+Access the full interactive prototype showcasing the redesigned system.
+
+🔗 Figma Prototype Link: https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=tuxG2oGG3MnsQwAl-1 
 
 
 ### 🚀 Future Improvements
 
 This project serves as a foundation for further enhancements, including:
 
-- Implementation of the redesigned system into a working application
-
+- Development of a Mobile Application
+  
 - User feedback-based refinements
 
 - Integration with third-party university tools
