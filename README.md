@@ -16,11 +16,12 @@ The project follows a structured development methodology that includes:
 
 - Definition of functional requirements based on user needs
 
+- Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
+
 - UI/UX Design & Prototyping in Figma
 
 - User testing & evaluation to refine interactions
 
-- Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
 
 ### 🎯 Surveyed Roles
 
