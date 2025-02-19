@@ -72,7 +72,7 @@ To ensure a seamless user experience, various UI/UX testing methods were conduct
 
 ### 📂 Project Assets
 
--🔗 Figma Prototype – View the full interactive design
+- 🔗 Figma Prototype – View the full interactive design
 
 - 📄 Project Documentation – Detailed project description
 
