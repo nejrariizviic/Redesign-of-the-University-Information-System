@@ -8,74 +8,74 @@ This project represents the UI/UX redesign of the University Information System 
 
 The project follows a structured development methodology that includes:
 
-- **Analysis of roles and tasks at the university
+- Analysis of roles and tasks at the university
 
-- **Business process analysis to identify inefficiencies
+- Business process analysis to identify inefficiencies
 
-- **Market research and comparative analysis of similar information systems
+- Market research and comparative analysis of similar information systems
 
-- **Definition of functional requirements based on user needs
+- Definition of functional requirements based on user needs
 
-- **UI/UX Design & Prototyping in Figma
+- UI/UX Design & Prototyping in Figma
 
-- **User testing & evaluation to refine interactions
+- User testing & evaluation to refine interactions
 
-- **Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
+- Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
 
 ### 🎯 Surveyed Roles
 
 To gain insight into user needs and expectations, selected university roles participated in the survey and feedback process:
 
-- **Students
+- Students
 
-- **Professors
+- Professors
 
-- **Student Services
+- Student Services
 
-- **Prorector for Scientific Research and Innovation 
+- Prorector for Scientific Research and Innovation 
 
-- **Financial Specialist
+- Financial Specialist
 
-- **Library Staff 
+- Library Staff 
 
 ### 📌 Key Features of the Redesigned System
 
-- **Optimized administrative & academic workflows
+- Optimized administrative & academic workflows
 
-- **Enhanced communication and collaboration
+- Enhanced communication and collaboration
 
-- **Improved financial management and budget tracking
+- Improved financial management and budget tracking
 
-- **Better research project management
+- Better research project management
 
-- **Advanced student performance tracking
+- Advanced student performance tracking
 
-- **Integrated digital student services
+- Integrated digital student services
 
-- **Higher system scalability and flexibility
+- Higher system scalability and flexibility
 
-- **Reduced administrative costs & improved transparency
+- Reduced administrative costs & improved transparency
 
 
 ### 🛠 UX Testing & Evaluation
 
 To ensure a seamless user experience, various UI/UX testing methods were conducted:
 
-- **Prototype usability testing
+- Prototype usability testing
 
-- **Interaction consistency testing
+- Interaction consistency testing
 
-- **Accessibility testing
+- Accessibility testing
 
-- **Micro-interaction and workflow evaluations
+- Micro-interaction and workflow evaluations
 
 ### 📂 Project Assets
 
--**🔗 Figma Prototype – View the full interactive design
+-🔗 Figma Prototype – View the full interactive design
 
-- **📄 Project Documentation – Detailed project description
+- 📄 Project Documentation – Detailed project description
 
-- **🖼️ Screenshots & UI Previews – Visual references from the design process
+- 🖼️ Screenshots & UI Previews – Visual references from the design process
 
 
 ### 🚀 Future Improvements
