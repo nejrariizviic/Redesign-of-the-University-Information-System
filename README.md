@@ -14,9 +14,9 @@ The project follows a structured development methodology that includes:
 
 - Market research and comparative analysis of similar information systems
 
-- Definition of functional requirements based on user needs
-
 - Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
+
+- Definition of functional requirements based on user needs
 
 - UI/UX Design & Prototyping in Figma
 
