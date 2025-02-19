@@ -57,11 +57,7 @@ To ensure a seamless user experience, various UI/UX testing methods were conduct
 
 ### 📂 Project Assets
 
-- 🔗 Figma Prototype – View the full interactive design
-
-- 📄 Project Documentation – Detailed project description
-
-- 🖼️ Screenshots & UI Previews – Visual references from the design process
+- 🔗 Figma Prototype Link: https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=tuxG2oGG3MnsQwAl-1 
 
 
 ### 🚀 Future Improvements
