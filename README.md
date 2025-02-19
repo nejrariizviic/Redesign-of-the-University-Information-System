@@ -5,7 +5,7 @@
 This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university. By focusing on the specific needs of students, professors, administrative staff, and financial offices, this redesign aims to provide a solution that improves overall workflow, enhances communication, and streamlines university processes. The project followed a user-centered design approach, starting with a detailed analysis of the university's organizational structure and business processes. Through this analysis, we identified key roles and tasks that could benefit from system improvements. The redesign was conducted using Figma, applying modern UI/UX principles and an iterative design process to ensure optimal user experience.
 
 
-## 🔍 Research & Methodology
+### 🔍 Research & Methodology
 
 The project follows a structured development methodology that includes:
 
