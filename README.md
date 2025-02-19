@@ -1,6 +1,6 @@
 # Redesign-of-the-University-Information-System
 
-## Table of Contents
+### Table of Contents
 - [🎯 Project Overview](#-project-overview)
 - [🔍 Research & Methodology](#-research--methodology)
 - [📌 Key Features of the Redesigned System](#-key-features-of-the-redesigned-system)
