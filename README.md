@@ -4,12 +4,12 @@ This project was developed to address a real-world challenge faced by the Univer
 
 
 ### Table of Contents
-- [🎯 Project Overview](#-project-overview)
-- [🔍 Research & Methodology](#-research--methodology)
-- [📌 Key Features of the Redesigned System](#-key-features-of-the-redesigned-system)
-- [🛠 UX Testing & Evaluation](#-ux-testing--evaluation)
-- [📂 Project Access](#-project-access)
-- [🚀 Future Improvements](#-future-improvements)
+- [ Project Overview](#-project-overview)
+- [ Research & Methodology](#-research--methodology)
+- [ Key Features of the Redesigned System](#-key-features-of-the-redesigned-system)
+- [ UX Testing & Evaluation](#-ux-testing--evaluation)
+- [ Project Access](#-project-access)
+- [ Future Improvements](#-future-improvements)
 
 ### 🎯 Project Overview
 
