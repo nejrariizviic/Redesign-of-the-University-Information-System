@@ -35,7 +35,7 @@ The project follows a structured development methodology that includes:
 - User testing & evaluation to refine interactions
 
 
-### 📌 Key Features of the Redesigned System
+### 🌟 Key Features of the Redesigned System
 
 - Optimized administrative & academic workflows
 
@@ -73,7 +73,7 @@ Access the full interactive prototype showcasing the redesigned system.
 [🔗 Figma Prototype Link](https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=AlG3GnsQw)
 
 
-### 🚀 Future Improvements
+### 💡 Future Improvements
 
 This project serves as a foundation for further enhancements, including:
 
