@@ -4,7 +4,11 @@ This project was developed to address a real-world challenge faced by the Univer
 
 ![Login Image](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Login.png)
 
-### Table of Contents
+
+
+
+
+## Table of Contents
 - [ Project Overview](#-project-overview)
 - [ Research & Methodology](#-research--methodology)
 - [ Key Features of the Redesigned System](#-key-features-of-the-redesigned-system)
@@ -12,12 +16,12 @@ This project was developed to address a real-world challenge faced by the Univer
 - [ Project Access](#-project-access)
 - [ Future Improvements](#-future-improvements)
 
-### 📌 Project Overview
+## Project Overview
 
 By focusing on the specific needs of students, professors, administrative staff, and financial offices, this redesign aims to provide a solution that improves overall workflow, enhances communication, and streamlines university processes. The project followed a user-centered design approach, starting with a detailed analysis of the university's organizational structure and business processes. Through this analysis, we identified key roles and tasks that could benefit from system improvements. The redesign was conducted using Figma, applying modern UI/UX principles and an iterative design process to ensure optimal user experience.
 
 
-### 🔍 Research & Methodology
+## Research & Methodology
 
 The project follows a structured development methodology that includes:
 
@@ -36,7 +40,7 @@ The project follows a structured development methodology that includes:
 - User testing & evaluation to refine interactions
 
 
-### 🌟 Key Features of the Redesigned System
+## Key Features of the Redesigned System
 
 - Optimized administrative & academic workflows
 
@@ -55,7 +59,7 @@ The project follows a structured development methodology that includes:
 - Reduced administrative costs & improved transparency
 
 
-### 🛠 UX Testing & Evaluation
+## UX Testing & Evaluation
 
 To ensure a seamless user experience, various UI/UX testing methods were conducted:
 
@@ -67,14 +71,14 @@ To ensure a seamless user experience, various UI/UX testing methods were conduct
 
 - Micro-interaction and workflow evaluations
 
-### 📂 Project Access
+## Project Access
 
 Access the full interactive prototype showcasing the redesigned system.
 
 [🔗 Figma Prototype Link](https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=AlG3GnsQw)
 
 
-### 💡 Future Improvements
+## Future Improvements
 
 This project serves as a foundation for further enhancements, including:
 
