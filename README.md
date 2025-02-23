@@ -4,9 +4,9 @@ This project was developed to address a real-world challenge faced by the Univer
 
 ![Login Image](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Login.png)
 
+## Student
 
-
-
+![Login Image](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Login.png)
 
 ## Table of Contents
 - [ Project Overview](#-project-overview)
