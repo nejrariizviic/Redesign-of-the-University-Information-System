@@ -8,6 +8,25 @@ This project was developed to address a real-world challenge faced by the Univer
 
 ![Student Dashboard](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/student%20dashboard.png)
 
+## Profesor
+![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Prof-prosustvo.png)
+
+
+## Studentska sluzba
+![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Mre%C5%BEa%20alumni.png)
+
+
+## Biblioteka
+![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Dashboard%20-%20biblioteka.png)
+
+
+## Odjel za finansije
+![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Dashboard-finansije.png)
+
+## NIR
+![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/nir.png)
+
+
 ## Table of Contents
 - [ Project Overview](#-project-overview)
 - [ Research & Methodology](#-research--methodology)
