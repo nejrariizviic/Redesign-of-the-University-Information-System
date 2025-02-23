@@ -2,6 +2,7 @@
 
 This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university.  
 
+![Redesign of the University System](Uploads/Login.png)
 
 ### Table of Contents
 - [ Project Overview](#-project-overview)
