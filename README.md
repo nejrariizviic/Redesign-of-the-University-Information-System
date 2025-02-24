@@ -155,13 +155,13 @@ Progress reporting and publication management
 
 To ensure a robust and user-friendly system, various evaluation methods were employed:
 
-Prototype Usability Testing: Assessing real user interactions with the prototype.
+- Prototype Usability Testing - assessing real user interactions with the prototype.
 
-Interaction & Consistency Review: Ensuring a uniform experience across all modules.
+- Interaction & Consistency Review - ensuring a uniform experience across all modules.
 
-Accessibility Compliance: Testing for WCAG (Web Content Accessibility Guidelines) adherence.
+- Accessibility Compliance - testing for WCAG adherence.
 
-Micro-Interaction & Navigation Testing: Refining workflows for an intuitive experience.
+- Micro-Interaction & Navigation Testing - refining workflows for an intuitive experience.
 
 ## Project Access
 
