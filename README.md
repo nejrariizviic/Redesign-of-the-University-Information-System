@@ -2,26 +2,26 @@
 
 This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university. The redesign was executed using a user-centered design approach, ensuring an intuitive and seamless user experience through an iterative design process. 
 
-## Student
+## Student Module
 
 ![Student Dashboard](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/student%20dashboard.png)
 
-## Profesor
+## Professor Module
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Prof-prosustvo.png)
 
 
-## Studentska sluzba
+## Student Services
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Mre%C5%BEa%20alumni.png)
 
 
-## Biblioteka
+## University Library
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Dashboard%20-%20biblioteka.png)
 
 
-## Odjel za finansije
+## Financial Department
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Dashboard-finansije.png)
 
-## NIR
+## Research & Innovation (NIR)
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/nir.png)
 
 
@@ -73,58 +73,54 @@ The project follows a structured development methodology that includes:
 - Help center
 
 ### Student Portal
-
-- Dashboard (Current Semester): Statistika o trenutnom semestru, uključujući broj sedmica, procentualni napredak i obaveze.
-- Calendar with Exam Dates and Obligations: Kalendar sa svim definisanim obavezama, uključujući ispitne rokove.
+- Dashboard
+- Calendar with Exam Dates and Obligations
 - Course Enrollment: Prijava na predmete, uključujući izborne predmete i prijavu grupa.
-- Attendance Reporting: Sistem za prijavu prisustva putem QR kodova.
-- Course-Related Obligations: Praćenje obaveza po predmetu, uključujući prisustvo, zadatke, projekte i ispitne rokove.
-- Change of Exam Schedule: Mogućnost prijave za promjenu termina ispita ako je zakazano više termina.
-- Academic Document Uploads: Mogućnost uploadovanja i upravljanja dokumentima vezanim za obaveze i projekte.
-- Project and Research Management: Prikaz najnovijih naučnih radova i projekata, uključujući prijavu za naučne konferencije.
-- Financial Obligations: Praćenje finansijskih obaveza sa mogućnošću uploadovanja dokumenata u slučaju neispunjavanja statusa.
+- Attendance Reporting - prijava prisustva putem QR kodova.
+- Course-Related Obligations
+- Change of Exam Schedule
+- Academic Document Uploads
+- Project and Research Management
+- Financial Obligations
 
 
 ####  Professor Module
-
-- Dashboard (Course-specific): Analitika uspjeha studenata, praćenje prolaznosti po predmetima, usporedba s prethodnim godinama.
-- Attendance Tracking: Evidencija prisustva studenata na nastavi pomoću QR kodova.
-- Course Materials Access: Dodavanje i upravljanje nastavnim materijalima (PPT, laboratorije, upute).
-- Assignment & Project Management: Upravljanje individualnim i grupnim zadacima, uključujući upload i ocjenjivanje rješenja.
-- Absence Justification: Pregled i odobravanje opravdanja za izostanke.
-- Syllabus Management: Kreiranje i upravljanje nastavnim planovima i programima.
-- Knowledge Check Management: Organizacija ispita i kvizova, uključujući raspored i lokacije ispita.
+- Dashboard
+- Attendance Tracking
+- Course Materials Access
+- Assignment & Project Management
+- Absence Justification
+- Syllabus Management
+- Knowledge Check Management
 
 #### Student Services
-
-- Dashboard & Activity Overview : Analitika upisa studenata, praćenje broja studenata po programima, pregled dnevnih obaveza i zadataka .
-- Notifications Management : Prikaz najnovijih obavještenja, mogućnost kreiranja novih obavještenja za studente.
-- Student Account & Record Management : Aktivacija korisničkih naloga , praćenje ocjena, izbornih predmeta i izrada transkripata.
-- Course & Exam Management : Prikaz i registracija za obavezne i izborne predmete, prijava i odjava sa ispita, pregled ispitnih rokova i rezultata.
-- Document Requests & Administration : Praćenje i odobravanje zahtjeva za dokumente , postavljanje dokumenata za administrativne procese (npr. molbe, potvrde).
-- Upravljanje žalbama i podrškom : Rješavanje žalbi studenata i praćenje problema, kontakt za administrativnu podršku, FAQ za studente.
-- Ankete & Alumni : Kreiranje anketa i praćenje rezultata, praćenje profila alumnusa, obavještenja i mreža za alumni članove.
+- Dashboard & Activity Overview 
+- Notifications Management
+- Student Account & Record Management
+- Course & Exam Management
+- Document Requests & Administration
+- Ankete
+- Alumni 
 
 ####  University Library
-
+- Dashboard
 - Digital catalog and online book reservation
 - Access to research papers and theses
 - Integration with the research module (NIR)
+- Student history
 
+  
 #### Financial Department
-
+- Dashboard
 - Budget planning and expense tracking
-
 - Financial reporting and analytics
-
 - Grant and funding management
+  
 
 #### Research & Innovation (NIR)
-
+- Dashboard
 - Project submission and review process
-
 - Research funding and budget tracking
-
 - Progress reporting and publication management 
 
 
