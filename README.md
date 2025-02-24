@@ -117,7 +117,7 @@ The project follows a structured development methodology that includes:
 - Grant and funding management
   
 
-#### Research & Innovation (NIR)
+#### Vice-Rector for Research and Innovation (NIR)
 - Dashboard
 - Project submission and review process
 - Research funding and budget tracking
