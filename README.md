@@ -172,13 +172,13 @@ Access the full interactive prototype showcasing the redesigned system.
 
 ## Future Improvements
 
-The current redesign serves as a foundation for continuous improvements, with planned enhancements including:
+The current redesign serves as a foundation for continuous improvements, with some of the planned enhancements including:
 
-Development of a Mobile Application for on-the-go access.
+ 1. Development of a Mobile Application for on-the-go access.
 
-Integration with Learning Management Systems (LMS) to support online education.
+ 2. Integration with Learning Management Systems (LMS) to support online education.
 
-Advanced Data Analytics & AI Integration for predictive analytics in student performance.
+ 3. Advanced Data Analytics & AI Integration for predictive analytics in student performance.
 
-User Feedback-Driven Updates to refine features based on practical usage insights.
+ 4. User Feedback-Driven Updates to refine features based on practical usage insights.
 
