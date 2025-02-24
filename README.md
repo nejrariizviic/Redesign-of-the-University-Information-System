@@ -62,21 +62,21 @@ The project follows a structured development methodology that includes:
 ## System Modules 
 
 ### Shared System Features
-- User Profile Management: Edit and update personal information and profile picture.
-- Authentication and Authorization (JWT): Secure login and access control using JSON Web Tokens.
-- Password Recovery and Change: Options for password reset and modification.
-- Push Notifications: Real-time notifications for important updates and reminders.
-- Calendar Integration: Centralized calendar for managing obligations, deadlines, and events.
-- Frequently Asked Questions (FAQ): A dedicated section for commonly asked questions and user support.
-- Account Deactivation: Option to deactivate user accounts for security or personal reasons.
-- Settings Management: Control over user preferences and system settings.
+- User Profile Management
+- Authentication and Authorization 
+- Password Recovery and Change
+- Push Notifications
+- Calendar Integration
+- Frequently Asked Questions (FAQ)
+- Account Deactivation
+- Settings Management
 - Help center
 
 ### Student Portal
 - Dashboard
 - Calendar with Exam Dates and Obligations
-- Course Enrollment: Prijava na predmete, uključujući izborne predmete i prijavu grupa.
-- Attendance Reporting - prijava prisustva putem QR kodova.
+- Course Selection and Enrollment
+- Attendance Reporting 
 - Course-Related Obligations
 - Change of Exam Schedule
 - Academic Document Uploads
