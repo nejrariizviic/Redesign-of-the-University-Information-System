@@ -50,7 +50,6 @@ The project follows a structured development methodology that includes:
 - User testing & evaluation to refine interactions
 
 ![BPM](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/BPM1.png)
-![BPM2](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/BPM2.png)
 
 ## System Modules 
 
