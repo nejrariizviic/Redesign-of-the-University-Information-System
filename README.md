@@ -25,13 +25,14 @@ This project was developed to address a real-world challenge faced by the Univer
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/nir.png)
 
 
-## Table of Contents
-- [ Project Overview](#-project-overview)
-- [ Research & Methodology](#-research--methodology)
-- [ Key Features of the Redesigned System](#-key-features-of-the-redesigned-system)
-- [ UX Testing & Evaluation](#-ux-testing--evaluation)
-- [ Project Access](#-project-access)
-- [ Future Improvements](#-future-improvements)
+## Table of Contents  
+- [Project Overview](#project-overview)  
+- [Research & Methodology](#research--methodology)  
+- [System Modules](#system-modules)  
+- [Key Features](#key-features)  
+- [UX Testing & Evaluation](#ux-testing--evaluation)  
+- [Project Access](#project-access)  
+- [Future Improvements](#future-improvements) 
 
 ## Project Overview
 
