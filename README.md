@@ -50,7 +50,7 @@ Professor: Handles course management, grading, research projects, and consultati
 
 Administrative Staff: Manages student records, enrollment processes, financial reports, and document verification.
 
-### Research & Methodology
+## Research & Methodology
 
 The project follows a structured development methodology that includes:
 
@@ -90,9 +90,9 @@ Seamless Integration with External Applications: Compatibility with Google Suite
 
 Scalability & Flexibility: Future-proof architecture with reduced administrative costs and improved transparency.
 
-### System Modules & Features
+## System Modules & Features
 
-##### Student Portal
+#### Student Portal
 
 Course enrollment and management
 
@@ -106,7 +106,7 @@ Integration with Google Drive for storing learning materials
 
 Synchronization with Google Calendar for scheduling exams and academic events
 
-#####  Professor Module
+####  Professor Module
 
 Course and student management
 
@@ -126,7 +126,7 @@ Document issuance and verification
 
 Alumni tracking and networking
 
-#####  University Library
+####  University Library
 
 Digital catalog and online book reservation
 
@@ -134,7 +134,7 @@ Access to research papers and theses
 
 Integration with the research module (NIR)
 
-##### Financial Department
+#### Financial Department
 
 Budget planning and expense tracking
 
@@ -142,7 +142,7 @@ Financial reporting and analytics
 
 Grant and funding management
 
-##### Research & Innovation (NIR)
+#### Research & Innovation (NIR)
 
 Project submission and review process
 
@@ -174,11 +174,11 @@ Access the full interactive prototype showcasing the redesigned system.
 
 The current redesign serves as a foundation for continuous improvements, with some of the planned enhancements including:
 
--- Development of a Mobile Application for on-the-go access.
+- Development of a Mobile Application for on-the-go access.
 
--- Integration with Learning Management Systems (LMS) to support online education.
+- Integration with Learning Management Systems (LMS) to support online education.
 
--- Advanced Data Analytics & AI Integration for predictive analytics in student performance.
+- Advanced Data Analytics & AI Integration for predictive analytics in student performance.
 
--- User Feedback-Driven Updates to refine features based on practical usage insights.
+- User Feedback-Driven Updates to refine features based on practical usage insights.
 
