@@ -1,6 +1,6 @@
 # Redesign of the University Information System
 
-This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university.  
+This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university. The redesign was executed using a user-centered design approach, ensuring an intuitive and seamless user experience through an iterative design process. 
 
 ![Login Image](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Login.png)
 
@@ -40,7 +40,17 @@ This project was developed to address a real-world challenge faced by the Univer
 By focusing on the specific needs of students, professors, administrative staff, and financial offices, this redesign aims to provide a solution that improves overall workflow, enhances communication, and streamlines university processes. The project followed a user-centered design approach, starting with a detailed analysis of the university's organizational structure and business processes. Through this analysis, we identified key roles and tasks that could benefit from system improvements. The redesign was conducted using Figma, applying modern UI/UX principles and an iterative design process to ensure optimal user experience.
 
 
-## Research & Methodology
+### User Roles
+
+The system accommodates three primary user roles:
+
+Student: Manages course enrollment, schedules exams, tracks academic progress, and accesses digital learning materials via Google Drive.
+
+Professor: Handles course management, grading, research projects, and consultations, with integration of Google Calendar for scheduling and Google Forms for assessments.
+
+Administrative Staff: Manages student records, enrollment processes, financial reports, and document verification.
+
+### Research & Methodology
 
 The project follows a structured development methodology that includes:
 
@@ -59,36 +69,96 @@ The project follows a structured development methodology that includes:
 - User testing & evaluation to refine interactions
 
 
-## Key Features of the Redesigned System
+## Key Features 
 
-- Optimized administrative & academic workflows
+Enhanced User Experience (UX): Improved navigation, interface responsiveness, and accessibility.
 
-- Enhanced communication and collaboration
+Optimized Administrative & Academic Workflows: Streamlined processes for students, faculty, and administrative staff.
 
-- Improved financial management and budget tracking
+Improved Communication & Collaboration: Seamless interaction between university roles through integrated digital services.
 
-- Better research project management
+Efficient Financial & Budget Management: Enhanced budgeting, expense tracking, and financial planning capabilities.
 
-- Advanced student performance tracking
+Advanced Research & Innovation Management: Tools for handling scientific research, funding, and publication tracking.
 
-- Integrated digital student services
+Comprehensive Student Performance Tracking: Digital records, automated grading, and progress insights.
 
-- Higher system scalability and flexibility
+Seamless Integration with External Applications: Compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
 
-- Reduced administrative costs & improved transparency
+Scalability & Flexibility: Future-proof architecture with reduced administrative costs and improved transparency.
+
+### System Modules & Features
+
+##### Student Portal
+
+Course enrollment and management
+
+Exam scheduling and results tracking
+
+Access to academic documents and reports
+
+Digital student services and notifications
+
+Integration with Google Drive for storing learning materials
+
+Synchronization with Google Calendar for scheduling exams and academic events
+
+#####  Professor Module
+
+Course and student management
+
+Attendance tracking and grading system
+
+Research project management
+
+Scheduling and consultation appointments
+
+Google Forms integration for conducting surveys and assessments
+
+Student Services (Administrative Staff)
+
+Enrollment management and student records
+
+Document issuance and verification
+
+Alumni tracking and networking
+
+#####  University Library
+
+Digital catalog and online book reservation
+
+Access to research papers and theses
+
+Integration with the research module (NIR)
+
+##### Financial Department
+
+Budget planning and expense tracking
+
+Financial reporting and analytics
+
+Grant and funding management
+
+##### Research & Innovation (NIR)
+
+Project submission and review process
+
+Research funding and budget tracking
+
+Progress reporting and publication management 
 
 
 ## UX Testing & Evaluation
 
-To ensure a seamless user experience, various UI/UX testing methods were conducted:
+To ensure a robust and user-friendly system, various evaluation methods were employed:
 
-- Prototype usability testing
+Prototype Usability Testing: Assessing real user interactions with the prototype.
 
-- Interaction consistency testing
+Interaction & Consistency Review: Ensuring a uniform experience across all modules.
 
-- Accessibility testing
+Accessibility Compliance: Testing for WCAG (Web Content Accessibility Guidelines) adherence.
 
-- Micro-interaction and workflow evaluations
+Micro-Interaction & Navigation Testing: Refining workflows for an intuitive experience.
 
 ## Project Access
 
@@ -99,11 +169,13 @@ Access the full interactive prototype showcasing the redesigned system.
 
 ## Future Improvements
 
-This project serves as a foundation for further enhancements, including:
+The current redesign serves as a foundation for continuous improvements, with planned enhancements including:
 
-- Development of a Mobile Application
-  
-- User feedback-based refinements
+Development of a Mobile Application for on-the-go access.
 
-- Integration with third-party university tools
+Integration with Learning Management Systems (LMS) to support online education.
+
+Advanced Data Analytics & AI Integration for predictive analytics in student performance.
+
+User Feedback-Driven Updates to refine features based on practical usage insights.
 
