@@ -40,16 +40,6 @@ This project was developed to address a real-world challenge faced by the Univer
 By focusing on the specific needs of students, professors, administrative staff, and financial offices, this redesign aims to provide a solution that improves overall workflow, enhances communication, and streamlines university processes. The project followed a user-centered design approach, starting with a detailed analysis of the university's organizational structure and business processes. Through this analysis, we identified key roles and tasks that could benefit from system improvements. The redesign was conducted using Figma, applying modern UI/UX principles and an iterative design process to ensure optimal user experience.
 
 
-### User Roles
-
-The system accommodates three primary user roles:
-
-Student: Manages course enrollment, schedules exams, tracks academic progress, and accesses digital learning materials via Google Drive.
-
-Professor: Handles course management, grading, research projects, and consultations, with integration of Google Calendar for scheduling and Google Forms for assessments.
-
-Administrative Staff: Manages student records, enrollment processes, financial reports, and document verification.
-
 ## Research & Methodology
 
 The project follows a structured development methodology that includes:
@@ -71,84 +61,86 @@ The project follows a structured development methodology that includes:
 ![BPM](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/BPM1.png)
 ![BPM2](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/BPM2.png)
 
-
-## Key Features 
-
-Enhanced User Experience (UX): Improved navigation, interface responsiveness, and accessibility.
-
-Optimized Administrative & Academic Workflows: Streamlined processes for students, faculty, and administrative staff.
-
-Improved Communication & Collaboration: Seamless interaction between university roles through integrated digital services.
-
-Efficient Financial & Budget Management: Enhanced budgeting, expense tracking, and financial planning capabilities.
-
-Advanced Research & Innovation Management: Tools for handling scientific research, funding, and publication tracking.
-
-Comprehensive Student Performance Tracking: Digital records, automated grading, and progress insights.
-
-Seamless Integration with External Applications: Compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
-
-Scalability & Flexibility: Future-proof architecture with reduced administrative costs and improved transparency.
-
-## System Modules & Features
+## System Modules 
 
 #### Student Portal
 
-Course enrollment and management
+🔹 Course enrollment and management
 
-Exam scheduling and results tracking
+🔹 Exam scheduling and results tracking
 
-Access to academic documents and reports
+🔹 Access to academic documents and reports
 
-Digital student services and notifications
+🔹 Digital student services and notifications
 
-Integration with Google Drive for storing learning materials
+🔹 Integration with Google Drive for storing learning materials
 
-Synchronization with Google Calendar for scheduling exams and academic events
+🔹 Synchronization with Google Calendar for scheduling exams and academic events
 
 ####  Professor Module
 
-Course and student management
+🔹 Course and student management
 
-Attendance tracking and grading system
+🔹 Attendance tracking and grading system
 
-Research project management
+🔹 Research project management
 
-Scheduling and consultation appointments
+🔹 Scheduling and consultation appointments
 
-Google Forms integration for conducting surveys and assessments
+🔹 Google Forms integration for conducting surveys and assessments
 
-Student Services (Administrative Staff)
+#### Student Services
 
-Enrollment management and student records
+🔹 Enrollment management and student records
 
-Document issuance and verification
+🔹 Document issuance and verification
 
-Alumni tracking and networking
+🔹 Alumni tracking and networking
 
 ####  University Library
 
-Digital catalog and online book reservation
+🔹 Digital catalog and online book reservation
 
-Access to research papers and theses
+🔹 Access to research papers and theses
 
-Integration with the research module (NIR)
+🔹 Integration with the research module (NIR)
 
 #### Financial Department
 
-Budget planning and expense tracking
+🔹 Budget planning and expense tracking
 
-Financial reporting and analytics
+🔹 Financial reporting and analytics
 
-Grant and funding management
+🔹 Grant and funding management
 
 #### Research & Innovation (NIR)
 
-Project submission and review process
+🔹 Project submission and review process
 
-Research funding and budget tracking
+🔹 Research funding and budget tracking
 
-Progress reporting and publication management 
+🔹 Progress reporting and publication management 
+
+
+
+## Key Features 
+
+- Enhanced User Experience (UX): Improved navigation, interface responsiveness, and accessibility.
+
+- Optimized Administrative & Academic Workflows: Streamlined processes for students, faculty, and administrative staff.
+
+- Improved Communication & Collaboration: Seamless interaction between university roles through integrated digital services.
+
+- Efficient Financial & Budget Management: Enhanced budgeting, expense tracking, and financial planning capabilities.
+
+- Advanced Research & Innovation Management: Tools for handling scientific research, funding, and publication tracking.
+
+- Comprehensive Student Performance Tracking: Digital records, automated grading, and progress insights.
+
+- Seamless Integration with External Applications: Compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
+
+- Scalability & Flexibility: Future-proof architecture with reduced administrative costs and improved transparency.
+
 
 
 ## UX Testing & Evaluation
