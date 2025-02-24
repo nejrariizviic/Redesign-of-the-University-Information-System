@@ -41,19 +41,12 @@ By focusing on the specific needs of students, professors, administrative staff,
 ## Research & Methodology
 
 The project follows a structured development methodology that includes:
-
 - Analysis of roles and tasks at the university
-
 - Business process analysis to identify inefficiencies
-
 - Market research and comparative analysis of similar information systems
-
 - Surveying selected university roles to understand which functionalities are important to them, which they found easy and useful, and which they would like to see improved.
-
 - Definition of functional requirements based on user needs
-
 - UI/UX Design & Prototyping in Figma
-
 - User testing & evaluation to refine interactions
 
 ![BPM](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/BPM1.png)
@@ -72,7 +65,7 @@ The project follows a structured development methodology that includes:
 - Settings Management
 - Help center
 
-### Student Portal
+### Student Module
 - Dashboard
 - Calendar with Exam Dates and Obligations
 - Course Selection and Enrollment
@@ -84,7 +77,7 @@ The project follows a structured development methodology that includes:
 - Financial Obligations
 
 
-####  Professor Module
+###  Professor Module
 - Dashboard
 - Attendance Tracking
 - Course Materials Access
@@ -93,7 +86,7 @@ The project follows a structured development methodology that includes:
 - Syllabus Management
 - Knowledge Check Management
 
-#### Student Services
+### Student Services
 - Dashboard & Activity Overview 
 - Notifications Management
 - Student Account & Record Management
@@ -102,7 +95,7 @@ The project follows a structured development methodology that includes:
 - Ankete
 - Alumni 
 
-####  University Library
+### University Library
 - Dashboard
 - Digital catalog and online book reservation
 - Access to research papers and theses
@@ -110,14 +103,14 @@ The project follows a structured development methodology that includes:
 - Student history
 
   
-#### Financial Department
+### Financial Department
 - Dashboard
 - Budget planning and expense tracking
 - Financial reporting and analytics
 - Grant and funding management
   
 
-#### Vice-Rector for Research and Innovation (NIR)
+### Vice-Rector for Research and Innovation (NIR)
 - Dashboard
 - Project submission and review process
 - Research funding and budget tracking
@@ -128,33 +121,21 @@ The project follows a structured development methodology that includes:
 ## Key Features 
 
 - Enhanced User Experience (UX) - improved navigation, interface responsiveness, and accessibility.
-
 - Optimized Administrative & Academic Workflows - streamlined processes for students, faculty, and administrative staff.
-
 - Improved Communication & Collaboration - seamless interaction between university roles through integrated digital services.
-
 - Efficient Financial & Budget Management - enhanced budgeting, expense tracking, and financial planning capabilities.
-
 - Advanced Research & Innovation Management - tools for handling scientific research, funding, and publication tracking.
-
 - Comprehensive Student Performance Tracking - digital records, automated grading, and progress insights.
-
 - Seamless Integration with External Applications - compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
-
 - Scalability & Flexibility - future-proof architecture with reduced administrative costs and improved transparency.
 
 
 
 ## UX Testing & Evaluation
-
 To ensure a robust and user-friendly system, various evaluation methods were employed:
-
 - Prototype Usability Testing - assessing real user interactions with the prototype.
-
 - Interaction & Consistency Review - ensuring a uniform experience across all modules.
-
 - Accessibility Compliance - testing for WCAG adherence.
-
 - Micro-Interaction & Navigation Testing - refining workflows for an intuitive experience.
 
 ## Project Access
@@ -167,12 +148,8 @@ Access the full interactive prototype showcasing the redesigned system.
 ## Future Improvements
 
 The current redesign serves as a foundation for continuous improvements, with some of the planned enhancements including:
-
 - Development of a Mobile Application for on-the-go access.
-
 - Integration with Learning Management Systems (LMS) to support online education.
-
 - Advanced Data Analytics & AI Integration for predictive analytics in student performance.
-
 - User Feedback-Driven Updates to refine features based on practical usage insights.
 
