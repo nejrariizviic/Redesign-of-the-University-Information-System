@@ -120,14 +120,14 @@ The project follows a structured development methodology that includes:
 
 ## Key Features 
 
-- Enhanced User Experience (UX) - improved navigation, interface responsiveness, and accessibility.
-- Optimized Administrative & Academic Workflows - streamlined processes for students, faculty, and administrative staff.
-- Improved Communication & Collaboration - seamless interaction between university roles through integrated digital services.
-- Efficient Financial & Budget Management - enhanced budgeting, expense tracking, and financial planning capabilities.
-- Advanced Research & Innovation Management - tools for handling scientific research, funding, and publication tracking.
-- Comprehensive Student Performance Tracking - digital records, automated grading, and progress insights.
-- Seamless Integration with External Applications - compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
-- Scalability & Flexibility - future-proof architecture with reduced administrative costs and improved transparency.
+- Enhanced User Experience (UX) 
+- Optimized Administrative & Academic Workflows 
+- Improved Communication & Collaboration 
+- Efficient Financial & Budget Management 
+- Advanced Research & Innovation Management
+- Comprehensive Student Performance Tracking 
+- Seamless Integration with External Applications 
+- Scalability & Flexibility 
 
 
 
