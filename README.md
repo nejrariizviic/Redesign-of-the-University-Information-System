@@ -2,8 +2,6 @@
 
 This project was developed to address a real-world challenge faced by the University of Zenica's information system. The goal was to redesign the existing system to optimize its usability, functionality, and efficiency across various roles within the university. The redesign was executed using a user-centered design approach, ensuring an intuitive and seamless user experience through an iterative design process. 
 
-![Login Image](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Login.png)
-
 ## Student
 
 ![Student Dashboard](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/student%20dashboard.png)
@@ -63,83 +61,91 @@ The project follows a structured development methodology that includes:
 
 ## System Modules 
 
-#### Student Portal
+### Shared System Features
+- User Profile Management: Edit and update personal information and profile picture.
+- Authentication and Authorization (JWT): Secure login and access control using JSON Web Tokens.
+- Password Recovery and Change: Options for password reset and modification.
+- Push Notifications: Real-time notifications for important updates and reminders.
+- Calendar Integration: Centralized calendar for managing obligations, deadlines, and events.
+- Frequently Asked Questions (FAQ): A dedicated section for commonly asked questions and user support.
+- Account Deactivation: Option to deactivate user accounts for security or personal reasons.
+- Settings Management: Control over user preferences and system settings.
+- Help center
 
-🔹 Course enrollment and management
+### Student Portal
 
-🔹 Exam scheduling and results tracking
+- Dashboard (Current Semester): Statistika o trenutnom semestru, uključujući broj sedmica, procentualni napredak i obaveze.
+- Calendar with Exam Dates and Obligations: Kalendar sa svim definisanim obavezama, uključujući ispitne rokove.
+- Course Enrollment: Prijava na predmete, uključujući izborne predmete i prijavu grupa.
+- Attendance Reporting: Sistem za prijavu prisustva putem QR kodova.
+- Course-Related Obligations: Praćenje obaveza po predmetu, uključujući prisustvo, zadatke, projekte i ispitne rokove.
+- Change of Exam Schedule: Mogućnost prijave za promjenu termina ispita ako je zakazano više termina.
+- Academic Document Uploads: Mogućnost uploadovanja i upravljanja dokumentima vezanim za obaveze i projekte.
+- Project and Research Management: Prikaz najnovijih naučnih radova i projekata, uključujući prijavu za naučne konferencije.
+- Financial Obligations: Praćenje finansijskih obaveza sa mogućnošću uploadovanja dokumenata u slučaju neispunjavanja statusa.
 
-🔹 Access to academic documents and reports
-
-🔹 Digital student services and notifications
-
-🔹 Integration with Google Drive for storing learning materials
-
-🔹 Synchronization with Google Calendar for scheduling exams and academic events
 
 ####  Professor Module
 
-🔹 Course and student management
-
-🔹 Attendance tracking and grading system
-
-🔹 Research project management
-
-🔹 Scheduling and consultation appointments
-
-🔹 Google Forms integration for conducting surveys and assessments
+- Dashboard (Course-specific): Analitika uspjeha studenata, praćenje prolaznosti po predmetima, usporedba s prethodnim godinama.
+- Attendance Tracking: Evidencija prisustva studenata na nastavi pomoću QR kodova.
+- Course Materials Access: Dodavanje i upravljanje nastavnim materijalima (PPT, laboratorije, upute).
+- Assignment & Project Management: Upravljanje individualnim i grupnim zadacima, uključujući upload i ocjenjivanje rješenja.
+- Absence Justification: Pregled i odobravanje opravdanja za izostanke.
+- Syllabus Management: Kreiranje i upravljanje nastavnim planovima i programima.
+- Knowledge Check Management: Organizacija ispita i kvizova, uključujući raspored i lokacije ispita.
 
 #### Student Services
 
-🔹 Enrollment management and student records
-
-🔹 Document issuance and verification
-
-🔹 Alumni tracking and networking
+- Dashboard & Activity Overview : Analitika upisa studenata, praćenje broja studenata po programima, pregled dnevnih obaveza i zadataka .
+- Notifications Management : Prikaz najnovijih obavještenja, mogućnost kreiranja novih obavještenja za studente.
+- Student Account & Record Management : Aktivacija korisničkih naloga , praćenje ocjena, izbornih predmeta i izrada transkripata.
+- Course & Exam Management : Prikaz i registracija za obavezne i izborne predmete, prijava i odjava sa ispita, pregled ispitnih rokova i rezultata.
+- Document Requests & Administration : Praćenje i odobravanje zahtjeva za dokumente , postavljanje dokumenata za administrativne procese (npr. molbe, potvrde).
+- Upravljanje žalbama i podrškom : Rješavanje žalbi studenata i praćenje problema, kontakt za administrativnu podršku, FAQ za studente.
+- Ankete & Alumni : Kreiranje anketa i praćenje rezultata, praćenje profila alumnusa, obavještenja i mreža za alumni članove.
 
 ####  University Library
 
-🔹 Digital catalog and online book reservation
-
-🔹 Access to research papers and theses
-
-🔹 Integration with the research module (NIR)
+- Digital catalog and online book reservation
+- Access to research papers and theses
+- Integration with the research module (NIR)
 
 #### Financial Department
 
-🔹 Budget planning and expense tracking
+- Budget planning and expense tracking
 
-🔹 Financial reporting and analytics
+- Financial reporting and analytics
 
-🔹 Grant and funding management
+- Grant and funding management
 
 #### Research & Innovation (NIR)
 
-🔹 Project submission and review process
+- Project submission and review process
 
-🔹 Research funding and budget tracking
+- Research funding and budget tracking
 
-🔹 Progress reporting and publication management 
+- Progress reporting and publication management 
 
 
 
 ## Key Features 
 
-- Enhanced User Experience (UX): Improved navigation, interface responsiveness, and accessibility.
+- Enhanced User Experience (UX) - improved navigation, interface responsiveness, and accessibility.
 
-- Optimized Administrative & Academic Workflows: Streamlined processes for students, faculty, and administrative staff.
+- Optimized Administrative & Academic Workflows - streamlined processes for students, faculty, and administrative staff.
 
-- Improved Communication & Collaboration: Seamless interaction between university roles through integrated digital services.
+- Improved Communication & Collaboration - seamless interaction between university roles through integrated digital services.
 
-- Efficient Financial & Budget Management: Enhanced budgeting, expense tracking, and financial planning capabilities.
+- Efficient Financial & Budget Management - enhanced budgeting, expense tracking, and financial planning capabilities.
 
-- Advanced Research & Innovation Management: Tools for handling scientific research, funding, and publication tracking.
+- Advanced Research & Innovation Management - tools for handling scientific research, funding, and publication tracking.
 
-- Comprehensive Student Performance Tracking: Digital records, automated grading, and progress insights.
+- Comprehensive Student Performance Tracking - digital records, automated grading, and progress insights.
 
-- Seamless Integration with External Applications: Compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
+- Seamless Integration with External Applications - compatibility with Google Suite, including Drive for materials, Calendar for scheduling, and Forms for surveys.
 
-- Scalability & Flexibility: Future-proof architecture with reduced administrative costs and improved transparency.
+- Scalability & Flexibility - future-proof architecture with reduced administrative costs and improved transparency.
 
 
 
