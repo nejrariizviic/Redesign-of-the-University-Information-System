@@ -140,10 +140,16 @@ To ensure a robust and user-friendly system, various evaluation methods were emp
 
 ## Project Access
 
-Access the full interactive prototype showcasing the redesigned system.
+The redesigned university information system is available on Figma, accessible directly via a web browser without the need for downloading or installing additional software. By clicking the link, you can explore the system's structure, functionalities, and interactive prototype elements.
 
 [🔗 Figma Prototype Link](https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=AlG3GnsQw)
 
+Within the Figma file, you can navigate through three key pages:
+
+- Design Assets Library – a collection of user interface resources, including typography, color palettes, iconography, and reusable components used throughout the system.
+- Modules and Functionalities Overview – an interactive display of all key user roles, their dashboards, and related system functions.
+- Wireframe – an overview of the basic structure and layout of the user interface elements, showcasing the information hierarchy and content organization within the system.
+This structure provides a clear insight into the design and functionality of the redesigned university information system.
 
 ## Future Improvements
 
