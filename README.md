@@ -144,11 +144,12 @@ The redesigned university information system is available on Figma, accessible d
 
 [🔗 Figma Prototype Link](https://www.figma.com/design/XWjpyes8glv5MxnXWYOVn5/Redizajn-korisni%C4%8Dkog-su%C4%8Delja-univerzitetskog-informacionog-sistema?node-id=6-3&t=AlG3GnsQw)
 
-Within the Figma file, you can navigate through three key pages:
+Within the Figma file, you can navigate through three main sections:
 
-- Design Assets Library – a collection of user interface resources, including typography, color palettes, iconography, and reusable components used throughout the system.
-- Modules and Functionalities Overview – an interactive display of all key user roles, their dashboards, and related system functions.
-- Wireframe – an overview of the basic structure and layout of the user interface elements, showcasing the information hierarchy and content organization within the system.
+- Design Assets – a collection of user interface resources, including typography, color palettes, iconography, and reusable components used throughout the system.
+- Wireframes – six wireframe pages, each representing the structure and layout for different system roles, outlining the organization of content and functionalities.
+- Prototypes – six interactive prototype pages, demonstrating user interactions, workflows, and navigation within the redesigned system.
+
 This structure provides a clear insight into the design and functionality of the redesigned university information system.
 
 ## Future Improvements
