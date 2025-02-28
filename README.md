@@ -63,35 +63,35 @@ The project follows a structured development methodology that includes:
 - Frequently Asked Questions (FAQ)
 - Account Deactivation
 - Settings Management
-- Help center
+- Help Center
 
 ### Student Module
 - Dashboard
-- Calendar with Exam Dates and Obligations
-- Course Selection and Enrollment
-- Attendance Reporting 
-- Course-Related Obligations
-- Change of Exam Schedule
-- Academic Document Uploads
-- Project and Research Management
-- Financial Obligations
+- Calendar with exam dates and obligations
+- Course selection and enrollment
+- Attendance reporting 
+- Course-related obligations
+- Change of exam schedule
+- Academic document uploads
+- Project and research management
+- Financial obligations
 
 
 ###  Professor Module
 - Dashboard
-- Attendance Tracking
-- Course Materials Access
-- Assignment & Project Management
-- Absence Justification
-- Syllabus Management
-- Knowledge Check Management
+- Attendance tracking
+- Course materials access
+- Assignment and project management
+- Absence justification
+- Syllabus management
+- Knowledge check management
 
 ### Student Services
-- Dashboard & Activity Overview 
-- Notifications Management
-- Student Account & Record Management
-- Course & Exam Management
-- Document Requests & Administration
+- Dashboard and activity overview 
+- Notifications management
+- Student account and record management
+- Course and exam management
+- Document requests and administration
 - Ankete
 - Alumni 
 
@@ -120,23 +120,23 @@ The project follows a structured development methodology that includes:
 
 ## Key Features 
 
-- Enhanced User Experience (UX) 
-- Optimized Administrative & Academic Workflows 
-- Improved Communication & Collaboration 
-- Efficient Financial & Budget Management 
-- Advanced Research & Innovation Management
-- Comprehensive Student Performance Tracking 
-- Seamless Integration with External Applications 
-- Scalability & Flexibility 
+- Enhanced user experience (UX) 
+- Optimized administrative and academic workflows 
+- Improved communication and collaboration 
+- Efficient financial and budget management 
+- Advanced research and innovation management
+- Comprehensive student performance tracking 
+- Seamless integration with external applications 
+- Scalability and flexibility 
 
 
 
 ## UX Testing & Evaluation
 To ensure a robust and user-friendly system, various evaluation methods were employed:
-- Prototype Usability Testing - assessing real user interactions with the prototype.
-- Interaction & Consistency Review - ensuring a uniform experience across all modules.
-- Accessibility Compliance - testing for WCAG adherence.
-- Micro-Interaction & Navigation Testing - refining workflows for an intuitive experience.
+- Prototype usability testing - assessing real user interactions with the prototype.
+- Interaction and consistency review - ensuring a uniform experience across all modules.
+- Accessibility compliance - testing for WCAG adherence.
+- Micro-Interaction and navigation testing - refining workflows for an intuitive experience.
 
 ## Project Access
 
@@ -155,8 +155,8 @@ This structure provides a clear insight into the design and functionality of the
 ## Future Improvements
 
 The current redesign serves as a foundation for continuous improvements, with some of the planned enhancements including:
-- Development of a Mobile Application for on-the-go access.
-- Integration with Learning Management Systems (LMS) to support online education.
-- Advanced Data Analytics & AI Integration for predictive analytics in student performance.
-- User Feedback-Driven Updates to refine features based on practical usage insights.
+- Development of a mobile application for on-the-go access.
+- Integration with learning management systems (LMS) to support online education.
+- Advanced data analytics and AI integration for predictive analytics in student performance.
+- User feedback-driven updates to refine features based on practical usage insights.
 
