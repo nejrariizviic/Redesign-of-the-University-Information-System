@@ -21,6 +21,7 @@ This project was developed to address a real-world challenge faced by the Univer
 ## Financial Department
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/Dashboard-finansije.png)
 
+
 ## Research & Innovation (NIR)
 ![Profesor](https://raw.githubusercontent.com/nejrariizviic/Redesign-of-the-University-Information-System/refs/heads/main/Uploads/nir.png)
 
